@@ -2,7 +2,6 @@ History.txt
 Manifest.txt
 README.txt
 Rakefile
-bin/sphinx-for-dm
 lib/sphinx-for-dm.rb
 lib/sphinx-for-dm/sphinx_client.rb
 lib/sphinx-for-dm/merbtasks.rb
